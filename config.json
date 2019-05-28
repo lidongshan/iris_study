@@ -1,6 +1,0 @@
-{
-  "app_name": "CmsProject",
-  "port": 9000,
-  "static_path": "/manage/static",
-  "mode": "dev"
-}
